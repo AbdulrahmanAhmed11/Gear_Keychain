@@ -5,6 +5,7 @@ A 3D mechanical keychain designed as a hollow gear with an engraved letter (A). 
 
 <img width="291" height="321" alt="Screenshot 2026-07-26 030305" src="https://github.com/user-attachments/assets/9f984bf9-377f-49d0-a536-17ba8a125654" />
 
+* 🌐 **Onshape Workspace Link:** [Click here to view the 3D model](https://cad.onshape.com/documents/7961275a0b34440a3010fee5/w/255a8dc56c72dab8e8bb8af2/e/7787bb616c44e70bf369841d)
 
 ## ✨ Design Features
 * **Smart Engineering:** The "gear" shape was chosen to reflect the core engineering identity of the mechanics track.
